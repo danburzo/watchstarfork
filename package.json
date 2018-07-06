@@ -3,7 +3,7 @@
   "private": "true",
   "version": "0.1.0",
   "scripts": {
-    "build": "yarn marcel"
+    "build": "./node_modules/marcel/bin/cli.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,5 @@
     "url": "https://github.com/danburzo/watchstarfork/issues"
   },
   "homepage": "https://watchstarfork.com",
-  "devDependencies": {
-    "marcel": "^0.1.2"
-  }
+  "devDependencies": {}
 }
