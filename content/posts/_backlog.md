@@ -19,12 +19,15 @@ Tools
 -----
 https://twitter.com/JoshWComeau/status/1013396610116718592
 https://github.com/kitze/JSUI
+https://projectfluent.org/
 
 Github repos
 ------------
 https://github.com/retejs/rete
 https://github.com/observablehq/array
 https://github.com/jondashkyle/hardly-everything
+
+[Sinova/Collisions](https://github.com/Sinova/Collisions), collision detection for circles, polygons, and points
 
 Learning
 --------
