@@ -27,9 +27,4 @@ https://github.com/jondashkyle/hardly-everything
 
 Learning
 --------
-[A refresher](https://frontendian.co/prototype) on prototype.
 __CSS.__ [Clearfix: A Lesson in Web Development Evolution](https://css-tricks.com/clearfix-a-lesson-in-web-development-evolution/)
-
-Misc
-----
-[This poster](https://codepen.io/adamclaxon/full/xzzxaE/) was built with CSS grid. 
