@@ -3,7 +3,7 @@
   "private": "true",
   "version": "0.1.0",
   "scripts": {
-    "build": "./node_modules/marcel/bin/cli.js"
+    "build": "yarn marcel"
   },
   "repository": {
     "type": "git",
