@@ -4,6 +4,7 @@ State Machines
 https://medium.freecodecamp.org/designing-ui-states-and-communicate-with-developers-effectively-by-fsm-fb420ca53215
 https://github.com/microstates/microstates.js
 [faste](https://github.com/theKashey/faste) is a state machine manager.
+https://amasad.me/async-js
 
 React
 -----
