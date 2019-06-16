@@ -11,8 +11,23 @@ React
 The case for [Headless UI Components](https://www.merrickchristensen.com/articles/headless-user-interface-components/)
 / In general, render props seem to be [a better idea](https://itnext.io/exploring-render-props-58f127834de7) than HOCs
 
-
 https://github.com/jamiebuilds/unstated-next
+
+Learning
+--------
+https://www.quora.com/How-do-I-learn-to-think-better/answer/Alan-Kay-11?ch=2&srid=3fUw9
+
+Spreadsheets
+------------
+https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919
+
+RTE
+---
+https://www.pierrehedkvist.com/posts/1-creating-a-collaborative-editor
+
+Creative Coding
+---------------
+https://wattenberger.com/blog/d3-interactive-charts
 
 Essays
 ------
