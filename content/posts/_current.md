@@ -1,0 +1,36 @@
+---
+---
+
+__Web Platform.__ Chrome 66 has added support for [images in the async clipboard API](https://developers.google.com/web/updates/2019/07/image-support-for-async-clipboard) 
+
+__CSS.__ [Sizing web components](https://medium.com/@simurai/sizing-web-components-8f433689736f) / The highly anticipated Every Layout book by Heydon Pickering and Andy Bell [is finally out](https://every-layout.dev/checkout/) / [A `.scroll-track` utility](https://andy-bell.design/wrote/progressive-overflow-management-with-a-scroll-track-utility/) by Andy Bell
+
+__Toolbox.__ [mobx-state-tree](https://github.com/mobxjs/mobx-state-tree) / [swup](https://github.com/swup/swup), a page transition library / [Wakamai Fondue](https://wakamaifondue.com/) answers the question “What can my font do?” / [Web quality checklist](https://devchecklists.com/web-quality-checklist/en/) / [Mapzen is now part of the Linux Foundation](https://www.linuxfoundation.org/press-release/2019/01/mapzen-open-source-data-and-software-for-real-time-mapping-applications-to-become-a-linux-foundation-project/) and their pricing seems very reasonable
+
+__UX / Accessibility.__ Sarah Gold on why [Making cities smarter while protecting privacy](https://www.projectsbyif.com/blog/make-cities-smarter-while-protecting-privacy-yes-its-possible/) is possible / [Fast Software, the Best Software](https://craigmod.com/essays/fast_software/) by Craig Mod / [Introduction to the `feed` role attribute](https://www.deque.com/blog/introduction-to-feed-role-attribute/) by Suman Damera / [Avoid Default Field Validation](http://adrianroselli.com/2019/02/avoid-default-field-validation.html) by Adrian Roselli / [Accessible inline list with bullets between items](https://blog.sapegin.me/all/accessible-inline-list/) by Artem Sapegin / [Principle](https://adactio.com/journal/15559) by Jeremy Keith
+
+__UI Libraries / Web Components.__ [Introduction to Svelte](https://daveceddia.com/svelte-intro/) by Dave Ceddia / [7 Tools for Developing Web Components in 2019](https://blog.bitsrc.io/7-tools-for-developing-web-components-in-2019-1d5b7360654d) by Jonathan Saring / [Looking back on five years of web components](https://bitworking.org/news/2019/07/looking-back-on-five-years-of-web-components) by Joe Gregorio
+
+__Back-end.__ Daniel Vassallo on how he uses [the good parts of AWS](https://twitter.com/dvassallo/status/1154516910265884672) (Twitter thread)
+
+__Creative coding.__  Bartosz Ciechanowski has some in-depth articles on [Alpha Compositing](https://ciechanow.ski/alpha-compositing/), [Color Spaces](https://ciechanow.ski/color-spaces/), and (from a while back) [Drawing Bézier curves](https://ciechanow.ski/drawing-bezier-curves/) / [nodes.io](http://nodes.io/): a JavaScript-based 2D canvas for computational thinking / [Beadz](https://heydon.github.io/beadz-drum-machine/), a drum machine by Heydon Pickering
+
+__Knowledge work.__ [hypotext/notation](https://github.com/hypotext/notation), a 
+collection of quotes on notation design & how it affects thought.
+
+---
+
+### Today I learned
+
+__Web Components in SVG__... are not supported. Which makes sense, in retrospect, as the Custom Elements API is defined only in the HTML spec.
+
+__Moving away from Gmail.__ I'm [taking notes here](https://github.com/danburzo/au-revoir-gmail).
+
+__More image optimizations.__ Still [from Scott Jehl](https://twitter.com/scottjehl/status/1154424344388558848):
+
+```html
+<picture>
+	<source media="(max-width:40em)" srcset="R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+	<img src='https://via.placeholder.com/1500x1000.png'/>
+</picture>
+```
