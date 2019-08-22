@@ -1,3 +1,11 @@
+SSG
+---
+[Roll your own comment system](https://www.taniarascia.com/add-comments-to-static-site/) for a static website, by Tania Rascia
+
+AWS
+---
+[Open guide to AWS](https://github.com/open-guides/og-aws) might come in handy some day
+
 State Machines
 --------------
 
