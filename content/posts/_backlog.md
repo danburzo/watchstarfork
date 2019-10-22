@@ -1,3 +1,13 @@
+https://we-make-money-not-art.com/can-you-design-a-website-on-a-very-limited-energy-budget-an-interview-with-gauthier-roussilhe/
+
+http://elzr.com/else/napkin-comic.pdf
+
+datasette / csvs-to-sqlite
+
+https://www.htdp.org/2019-02-24/index.html
+https://felleisen.org/matthias/Thoughts/Developing_Developers.html
+https://sarahlim.com/#projects
+
 SSG
 ---
 [Roll your own comment system](https://www.taniarascia.com/add-comments-to-static-site/) for a static website, by Tania Rascia
@@ -13,6 +23,9 @@ https://medium.freecodecamp.org/designing-ui-states-and-communicate-with-develop
 https://github.com/microstates/microstates.js
 [faste](https://github.com/theKashey/faste) is a state machine manager.
 https://amasad.me/async-js
+
+https://www.w3.org/TR/scxml/
+thisrobot.life
 
 React
 -----
